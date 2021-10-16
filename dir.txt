@@ -1,0 +1,12 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4C25\Desktop\Savastano_ProvaGit
+
+16/10/2021  09:31    <DIR>          .
+16/10/2021  09:31    <DIR>          ..
+16/10/2021  09:31                 0 dir.txt
+16/10/2021  09:26                34 info.txt
+16/10/2021  09:25                62 README.md
+               3 File             96 byte
+               2 Directory  56.325.062.656 byte disponibili
